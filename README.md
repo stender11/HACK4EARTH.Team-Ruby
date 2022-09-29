@@ -22,7 +22,7 @@ Link TBD
 
 ## Issues / Known Bugs
 
-- Specific questions with long answers sometimes dont fit into flipcard viewport
+- add unresolved issues here
 
 ## Optimizations
 
